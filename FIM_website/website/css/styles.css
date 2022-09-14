@@ -1,0 +1,188 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+  font-family: 'Roboto', sans-serif;
+}
+
+#logo{
+  max-width: 80px;
+  margin-left: -20%;
+  margin-right: 2%;
+  border-radius: 50%;
+
+  }
+
+  /* Nav Bar */
+
+.navbar {
+  
+  padding: 1% 15%;
+  background-color: #1a191b;
+
+}
+
+.TelFooter {
+  
+  padding: 1% 15%;
+color:white;
+padding-bottom: 0%;
+
+}
+
+.navbar-brand {
+  
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin:auto;
+
+}
+
+.nav-item {
+  
+font-family: "Ubuntu";
+color: white;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+font-family: "Ubuntu";
+}
+
+.bannerHome{
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  object-fit: fill;
+  width: 100%;
+  
+  }
+
+
+  #botaoWebToLead{
+    /* block-size: 100%; */
+    margin: auto auto auto auto;
+  }
+
+  .container-fluid{
+    padding: 4% 15% 7% ;
+  }
+
+  .sessao2 {
+    background-color: #1a191b;
+    color: #fff;
+    font-size:100%;
+  }
+
+  .sessao3 {
+    background-color: #232323;
+    color: white;
+  }
+
+  .sessao4 {
+    background-color: #1a191b;
+    color: white;
+    position: relative;
+  }
+
+  #produtos {
+    padding: 40px;
+  }
+  .card-img-top{
+    margin: auto;
+    display: block;
+  }
+
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 2%;
+  }
+
+  .h-100{
+    height: 100%;
+    padding: 3% 15% 7%;
+    }
+  .fa-solid{
+    color: white;
+  }
+  #testimonials {
+    background-color: #232323;
+    /* padding: 8% 15% 5% ; */
+  
+  }
+
+.testimonial-text {
+  font-size: 3vmax;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+  .linkFooter{
+    color: white;
+  }
+  
+  .linkFooter:hover{
+    color: rgb(125, 125, 125);
+  }
+
+  #footer1{
+    /* padding-top: 2%; */
+    /* margin-top: 7%; */
+    padding-bottom: 0.5em;
+    }
+
+    .social-icon {
+      margin: 20px 10px 1px 10px;
+    }
+
+    #copyright{
+      margin-top: -30px;
+    }
+
+    #title .container-fluid {
+      padding: 3% 15% 7%;
+    }
+
+    .big-heading {
+      font-size: 3.5rem;
+      line-height: 1.5;
+      padding: 1% 15% 5% ;
+    }
+    .big-heading2 {
+      font-size: 3.5rem;
+      line-height: 1.5;
+      padding: -5% 15% 5% ;
+    }
+
+
+    #contato{
+      margin-bottom: auto;
+    }
+
+    #motivoCtt{
+      margin: auto;
+      display: block;
+    }
+
+    .form-control{
+      margin: auto;
+      display: block;
+    }
